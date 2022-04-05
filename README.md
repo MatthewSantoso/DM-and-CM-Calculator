@@ -2,11 +2,11 @@
 Macroporosity and Macrovoid Count Calculator
 
 Requirements: 
->- MATLAB R2021a
->- Image Processing Toolbox
->- Computer Vision Toolbox
->- Symbolic Math Toolbox
->- Optimization Toolbox
+- MATLAB R2021a
+- Image Processing Toolbox
+- Computer Vision Toolbox
+- Symbolic Math Toolbox
+- Optimization Toolbox
 
 File Descriptions:
 - DM_CM_Calculator_SourceCode.mlapp:
