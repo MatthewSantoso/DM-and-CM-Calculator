@@ -1,5 +1,5 @@
 # DM-and-CM-Calculator
-Macroporosity and Macrovoid Count Calculator
+Macroporosity and Macrovoid Count Density Calculator
 
 Authors: Matthew S. Santoso, Alexander T. Bridge, Alexander V. Hillsley, Joan F. Brennecke and Benny D. Freeman
 
