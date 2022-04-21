@@ -1,7 +1,7 @@
 # DM-and-CM-Calculator
 Macroporosity and Macrovoid Count Density Calculator
 
-Authors: Matthew S. Santoso, Alexander T. Bridge, Alexander V. Hillsley, Joan F. Brennecke and Benny D. Freeman
+Authors: Matthew S. Santoso, Alexander T. Bridge, Alexander V. Hillsley, Joan F. Brennecke, and Benny D. Freeman
 
 Requirements: 
 - MATLAB R2021a
