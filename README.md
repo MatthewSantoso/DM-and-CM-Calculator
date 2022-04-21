@@ -16,4 +16,4 @@ File/Folder Descriptions:
 - DM & CM Calculator.mlappinstall:
   - DM & CM Calculator App installer. Download and use "Install App" button under "Apps" tab to install.
 - test_images:
-  - Contains samples of some of the images used in the paper.
+  - Contains samples of some of the idealized and real membrane cross sections used in the paper.
