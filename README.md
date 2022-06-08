@@ -7,8 +7,10 @@ Requirements:
 - MATLAB R2021a
 - Image Processing Toolbox
 - Computer Vision Toolbox
-- Symbolic Math Toolbox
-- Optimization Toolbox
+
+Notes:
+- Accepts .tif or .tiff files
+- Tested with SEM images from an FEI Quanta 650 ESEM
 
 File/Folder Descriptions:
 - DM_CM_Calculator_SourceCode.mlapp:
