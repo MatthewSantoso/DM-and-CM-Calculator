@@ -17,5 +17,7 @@ File/Folder Descriptions:
   - Source code for DM and CM Calculator App, open through MATLAB "Design App" button under the "Apps" tab
 - DM & CM Calculator.mlappinstall:
   - DM & CM Calculator App installer. Download and use "Install App" button under the "Apps" tab to install.
+- DM & CM Calculator.prj:
+  - Matlab prj file to help with compiling the app installer.
 - test_images:
   - Contains samples of some of the idealized and real membrane cross sections used in the paper.
