@@ -9,8 +9,8 @@ Requirements:
 - Computer Vision Toolbox
 
 Notes:
-- Accepts .tif or .tiff files
-- Tested with SEM images from an FEI Quanta 650 ESEM
+- Use TIF or TIFF images for best results, PNG is essentially only for testing idealized membrane cross sections.
+- Macrovoid count density (CM) functionality is only tested with SEM images from an FEI Quanta 650 ESEM
 
 File/Folder Descriptions:
 - DM_CM_Calculator_SourceCode.mlapp:
