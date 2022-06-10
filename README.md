@@ -1,5 +1,5 @@
 # DM-and-CM-Calculator
-Macroporosity and Macrovoid Count Density Calculator
+Macroporosity and Macrovoid Count Density Calculator-EXPERIMENTAL
 
 Authors: Matthew S. Santoso, Alexander T. Bridge, Alexander V. Hillsley, Joan F. Brennecke, and Benny D. Freeman
 
@@ -7,6 +7,10 @@ Requirements:
 - MATLAB R2021a
 - Image Processing Toolbox
 - Computer Vision Toolbox
+
+Differences from main branch:
+- New filters to help remove micropores are implemented. 
+- Some UI improvements to make it less laggy and easier to use
 
 Notes:
 - Use TIF or TIFF images for best results, PNG is essentially only for testing idealized membrane cross sections.
