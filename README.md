@@ -11,6 +11,7 @@ Requirements:
 Differences from main branch:
 - New filters to help remove micropores are implemented. 
 - Some UI improvements to make it less laggy and easier to use
+- New slider to enable manipulation of neighborhood size for adaptive thresholding
 
 Notes:
 - Use TIF or TIFF images for best results, PNG is essentially only for testing idealized membrane cross sections.
