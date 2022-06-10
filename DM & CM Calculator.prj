@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.apptool" plugin-version="1.0">
-  <configuration build-checksum="1221535904" file="D:\zzy_Github\DM-and-CM-Calculator\DM &amp; CM Calculator.prj" location="D:\zzy_Github\DM-and-CM-Calculator" name="DM &amp; CM Calculator" target="target.mlapps" target-name="Package App">
+  <configuration build-checksum="3998300322" file="D:\zzy_Github\DM-and-CM-Calculator\DM &amp; CM Calculator.prj" location="D:\zzy_Github\DM-and-CM-Calculator" name="DM &amp; CM Calculator" target="target.mlapps" target-name="Package App">
     <param.appname>DM &amp; CM Calculator</param.appname>
     <param.authnamewatermark>Matthew Santoso</param.authnamewatermark>
     <param.email>matthew.santoso@utexas.edu</param.email>
@@ -7,8 +7,11 @@
     <param.icon />
     <param.icons />
     <param.summary />
-    <param.description>Calculates macroporosities and macrovoid count density for asymmetric membranes based on their SEM cross sections.</param.description>
-    <param.screenshot>C:\Users\matth\AppData\Local\Temp\tp7da1dd5f_d211_464a_8682_10bee47b89b7.png</param.screenshot>
+    <param.description>Calculates macroporosities and macrovoid count density for asymmetric membranes based on their SEM cross sections.
+
+- Use TIF or TIFF images for best results, PNG is essentially only for testing idealized membrane cross sections.
+- Macrovoid count density (CM) functionality is only tested with SEM images from an FEI Quanta 650 ESEM</param.description>
+    <param.screenshot>C:\Users\matth\AppData\Local\Temp\tp88eb89e3_f2af_4aa5_b4b7_46d4277afdc5.png</param.screenshot>
     <param.version>1.9</param.version>
     <param.products.name>
       <item>MATLAB</item>
