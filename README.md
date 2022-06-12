@@ -12,7 +12,7 @@ Differences from main branch:
 - New filters to help remove micropores are implemented. 
 - Some UI improvements to make it less laggy and easier to use
 - New slider to enable manipulation of neighborhood size for adaptive thresholding
-- New visualization of painter drawings. Now the mask is overlayed on the grayscale so you can see what's wrong better.
+- New visualization of painter drawings. Now the mask is overlayed on the grayscale so you can see what's wrong better. Enabled by a toggle button.
 
 Notes:
 - Use TIF or TIFF images for best results, PNG is essentially only for testing idealized membrane cross sections.
