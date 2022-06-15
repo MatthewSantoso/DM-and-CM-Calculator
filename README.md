@@ -1,5 +1,6 @@
 # DM-and-CM-Calculator
 Macroporosity and Macrovoid Count Density Calculator-EXPERIMENTAL
+~Contains experimental features and algorithms. MAY BE BUGGY (or better) ¯\_(ツ)_/¯
 
 Authors: Matthew S. Santoso, Alexander T. Bridge, Alexander V. Hillsley, Joan F. Brennecke, and Benny D. Freeman
 
