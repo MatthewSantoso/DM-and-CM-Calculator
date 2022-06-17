@@ -1,4 +1,4 @@
-# DM-and-CM-Calculator
+# DM-and-CM-Calculator, Experimental Branch
 ***Macroporosity and Macrovoid Count Density Calculator-EXPERIMENTAL***
 
 ~Contains experimental features and algorithms. MAY BE BUGGY (or better) ¯\_(ツ)_/¯
