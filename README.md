@@ -8,6 +8,7 @@
 - Some UI improvements to make it less laggy and easier to use
 - New slider to enable manipulation of neighborhood size for adaptive thresholding
 - New visualization of painter drawings. Now the mask is overlayed on the grayscale so you can see what's wrong better. Enabled by a toggle button.
+- CM is not calculated slightly differently so there won't be negative CM values.
 
 Authors: Matthew S. Santoso, Alexander T. Bridge, Alexander V. Hillsley, Joan F. Brennecke, and Benny D. Freeman
 

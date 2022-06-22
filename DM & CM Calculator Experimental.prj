@@ -1,49 +1,41 @@
 <deployment-project plugin="plugin.apptool" plugin-version="1.0">
-  <configuration build-checksum="610412981" file="D:\zzy_Github\DM-and-CM-Calculator\DM &amp; CM Calculator Experimental.prj" location="D:\zzy_Github\DM-and-CM-Calculator" name="DM &amp; CM Calculator Experimental" target="target.mlapps" target-name="Package App">
+  <configuration build-checksum="2691862569" file="D:\zzy_Github\DM-and-CM-Calculator\DM &amp; CM Calculator Experimental.prj" location="D:\zzy_Github\DM-and-CM-Calculator" name="DM &amp; CM Calculator Experimental" target="target.mlapps" target-name="Package App">
     <param.appname>DM &amp; CM Calculator Experimental</param.appname>
     <param.authnamewatermark>Matthew Santoso</param.authnamewatermark>
-    <param.email>matthew.santoso@utexas.edu</param.email>
+    <param.email />
     <param.company />
     <param.icon />
     <param.icons />
     <param.summary />
     <param.description>Calculates macroporosities and macrovoid count for asymmetric membranes based on their SEM cross sections.</param.description>
-    <param.screenshot>C:\Users\matth\AppData\Local\Temp\tp9a66f635_75b8_4763_acc9_7b94dfc9d210.png</param.screenshot>
+    <param.screenshot>C:\Users\matth\AppData\Local\Temp\tp5baa1e97_8134_46b0_966a_5062b61cdf91.png</param.screenshot>
     <param.version>1.10.1</param.version>
-    <param.products.name>
-      <item>MATLAB</item>
-      <item>Computer Vision Toolbox</item>
-      <item>Image Processing Toolbox</item>
-    </param.products.name>
-    <param.products.id>
-      <item>1</item>
-      <item>96</item>
-      <item>17</item>
-    </param.products.id>
-    <param.products.version>
-      <item>9.10</item>
-      <item>10.0</item>
-      <item>11.3</item>
-    </param.products.version>
+    <param.products.name />
+    <param.products.id />
+    <param.products.version />
     <param.platforms />
     <param.output>${PROJECT_ROOT}</param.output>
-    <param.guid>64750b78-101f-40c5-b1a8-e13e21f1fb80</param.guid>
+    <param.guid>d813216a-c568-4efc-a2ea-d341350d98ad</param.guid>
     <unset>
+      <param.email />
       <param.company />
       <param.icon />
       <param.icons />
       <param.summary />
+      <param.products.name />
+      <param.products.id />
+      <param.products.version />
       <param.platforms />
       <param.output />
     </unset>
     <fileset.main>
-      <file>${PROJECT_ROOT}\DM_CM_Calculator_SourceCode.mlapp</file>
+      <file>${PROJECT_ROOT}\DM_CM_Calculator_Experimental_SourceCode.mlapp</file>
     </fileset.main>
     <fileset.depfun>
-      <file>G:\My Drive\001_College\CISTAR Lab\ImageJ stuffs\Code\Functions\fAddSideBar.m</file>
-      <file>G:\My Drive\001_College\CISTAR Lab\ImageJ stuffs\Code\Functions\fCutManual.m</file>
-      <file>G:\My Drive\001_College\CISTAR Lab\ImageJ stuffs\Code\Functions\fSEMDatabarCut.m</file>
-      <file>G:\My Drive\001_College\CISTAR Lab\ImageJ stuffs\Code\Functions\fSLnoWhite.m</file>
+      <file>D:\001_College\CISTAR Lab\ImageJ stuffs\Code\Functions\fAddSideBar.m</file>
+      <file>D:\001_College\CISTAR Lab\ImageJ stuffs\Code\Functions\fCutManual.m</file>
+      <file>D:\001_College\CISTAR Lab\ImageJ stuffs\Code\Functions\fSEMDatabarCut.m</file>
+      <file>D:\001_College\CISTAR Lab\ImageJ stuffs\Code\Functions\fSLnoWhite.m</file>
     </fileset.depfun>
     <fileset.resources />
     <fileset.package />
