@@ -5,15 +5,14 @@
 
 **Differences from main branch:**
 - New filters to help remove micropores are implemented. 
-	- None: no filters, results in same images as main branch
+	- None: no filters, results in same masks as main branch.
 	- Percentage: removes all pores smaller than half a standard deviation above the average pore size
 	- Size: only keeps the largest 60 pores, or the largest 5% of the pores, whichever results in smaller number of pores. 
 - Some UI improvements to make it less laggy and easier to use
-- New slider to enable manipulation of neighborhood size for adaptive thresholding
+- New slider to enable manipulation of neighborhood size for adaptive thresholding.
 - New visualization of painter drawings. Now the mask can be overlayed on the grayscale so you can see what's wrong better. Enabled by a toggle button.
 - CM is calculated slightly differently so there won't be negative CM values.
-- Shrinkage % is now calculated reported on the right hand side. 
-- Added new buttons to make copying DM, CM, and Shrinkage % values for FMTM or FATM to the clipboard, for pasting in that order in Excel.
+- Shrinkage % is now reported. The thickness of the membrane is the minimum Feret diameter of the binary mask. Cannot be calculated for "No Top" membranes. 
 
 Authors: Matthew S. Santoso, Alexander T. Bridge, Alexander V. Hillsley, Joan F. Brennecke, and Benny D. Freeman
 
