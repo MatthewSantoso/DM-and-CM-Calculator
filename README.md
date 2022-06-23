@@ -13,6 +13,7 @@
 - New visualization of painter drawings. Now the mask can be overlayed on the grayscale so you can see what's wrong better. Enabled by a toggle button.
 - CM is calculated slightly differently so there won't be negative CM values.
 - Shrinkage % is now calculated reported on the right hand side. 
+- Added new buttons to make copying DM, CM, and Shrinkage % values for FMTM or FATM to the clipboard, for pasting in that order in Excel.
 
 Authors: Matthew S. Santoso, Alexander T. Bridge, Alexander V. Hillsley, Joan F. Brennecke, and Benny D. Freeman
 
