@@ -3,13 +3,14 @@
 
 Authors: Matthew S. Santoso, Alexander T. Bridge, Alexander V. Hillsley, Joan F. Brennecke, and Benny D. Freeman
 
-**Requirements:** 
+**Requirements: **
 - MATLAB R2021a
 - Image Processing Toolbox
 - Computer Vision Toolbox
 
 **Notes:**
-- Use TIF or TIFF images for best results, PNG is essentially only for testing idealized membrane cross sections.
+- Use TIF or TIFF images for DM and CM values and full functionality.
+- PNG and JPG images can be processed for DM values only. Saving of binary masks is not possible with these image types.
 - Macrovoid count density (CM) functionality is only tested with SEM images from an FEI Quanta 650 ESEM
 
 **File/Folder Descriptions:**
