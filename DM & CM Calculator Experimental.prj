@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.apptool" plugin-version="1.0">
-  <configuration build-checksum="828788476" file="D:\zzy_Github\DM-and-CM-Calculator\DM &amp; CM Calculator Experimental.prj" location="D:\zzy_Github\DM-and-CM-Calculator" name="DM &amp; CM Calculator Experimental" target="target.mlapps" target-name="Package App">
+  <configuration build-checksum="3240673091" file="D:\zzy_Github\DM-and-CM-Calculator\DM &amp; CM Calculator Experimental.prj" location="D:\zzy_Github\DM-and-CM-Calculator" name="DM &amp; CM Calculator Experimental" target="target.mlapps" target-name="Package App">
     <param.appname>DM &amp; CM Calculator Experimental</param.appname>
     <param.authnamewatermark>Matthew Santoso</param.authnamewatermark>
     <param.email />
@@ -7,14 +7,24 @@
     <param.icon />
     <param.icons />
     <param.summary />
-    <param.description>Calculates macroporosities and macrovoid count for asymmetric membranes based on their SEM cross sections.
-
-&lt;a href=""&gt;https://github.com/MatthewSantoso/DM-and-CM-Calculator/tree/Experimental &lt;/a&gt;</param.description>
-    <param.screenshot>C:\Users\matth\AppData\Local\Temp\tp32727b2e_1052_4a61_88a4_4f83333f71da.png</param.screenshot>
-    <param.version>1.11.1</param.version>
-    <param.products.name />
-    <param.products.id />
-    <param.products.version />
+    <param.description>Calculates macroporosities and macrovoid count for asymmetric membranes based on their SEM cross sections.</param.description>
+    <param.screenshot>C:\Users\matth\AppData\Local\Temp\tp4cd52d2e_81fa_4b63_92f9_2838ad2354c8.png</param.screenshot>
+    <param.version>1.11</param.version>
+    <param.products.name>
+      <item>MATLAB</item>
+      <item>Computer Vision Toolbox</item>
+      <item>Image Processing Toolbox</item>
+    </param.products.name>
+    <param.products.id>
+      <item>1</item>
+      <item>96</item>
+      <item>17</item>
+    </param.products.id>
+    <param.products.version>
+      <item>9.10</item>
+      <item>10.0</item>
+      <item>11.3</item>
+    </param.products.version>
     <param.platforms />
     <param.output>${PROJECT_ROOT}</param.output>
     <param.guid>d813216a-c568-4efc-a2ea-d341350d98ad</param.guid>
@@ -24,9 +34,6 @@
       <param.icon />
       <param.icons />
       <param.summary />
-      <param.products.name />
-      <param.products.id />
-      <param.products.version />
       <param.platforms />
       <param.output />
     </unset>

@@ -12,8 +12,9 @@
 - ~~New slider to enable manipulation of neighborhood size for adaptive thresholding.~~ (Implemented in main)
 - New visualization of painter drawings. Now the mask can be overlayed on the grayscale so you can see what's wrong better. Enabled by a toggle button.
 - CM is calculated slightly differently so there won't be negative CM values.
-- Shrinkage % is now reported. The thickness of the membrane is the minimum Feret diameter of the binary mask. Cannot be calculated for "No Top" membranes. 
+- Shrinkage is now reported. The thickness of the membrane is the minimum Feret diameter of the binary mask. Cannot be calculated for "No Top" membranes. 
 - Added new buttons to make copying [DM, CM, and Shrinkage %] values for FMTM or FATM to the clipboard, for pasting in that order in Excel.
+- Added new button/edit field to allow for different nominal membrane thicknesses for shrinkage calculation.
 
 Authors: Matthew S. Santoso, Alexander T. Bridge, Alexander V. Hillsley, Joan F. Brennecke, and Benny D. Freeman
 
