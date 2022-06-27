@@ -18,6 +18,7 @@ Authors: Matthew S. Santoso, Alexander T. Bridge, Alexander V. Hillsley, Joan F.
 - Shrinkage % is now reported. The thickness of the membrane is the minimum Feret diameter of the binary mask. Cannot be calculated for "No Top" membranes. 
 - Added new buttons to make copying [DM, CM, Shrinkage] values for FMTM or FATM to the clipboard, for pasting in that order in Excel.
 - Added new button/edit field to allow for different nominal membrane thicknesses for shrinkage calculation.
+- Added new toggle to allow for unconnected polymer structures to show up in binary masks.
 
 # Descriptions:
 
