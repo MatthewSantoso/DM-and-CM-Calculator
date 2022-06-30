@@ -12,8 +12,8 @@ Details about computational flow and code can be found in "Rapid macrovoid chara
 
 **Notes:**
 - Use TIF or TIFF images for DM and CM values and full functionality.
-- PNG and JPG images can be processed for DM values only. Saving of binary masks is not possible with these image types.
-- Macrovoid count density (CM) functionality is only tested with SEM images from an FEI Quanta 650 ESEM
+- PNG and JPG images require manual retrieval of image scale for CM and Shrinkage calculations.
+- Automated retrieval of image scale has only been tested with SEM images from an FEI Quanta 650 ESEM
 
 # File/Folder Descriptions
 - DM_CM_Calculator_SourceCode.mlapp:
