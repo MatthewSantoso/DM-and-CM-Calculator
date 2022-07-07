@@ -14,12 +14,14 @@ Authors: Matthew S. Santoso, Alexander T. Bridge, Alexander V. Hillsley, Joan F.
 - Some UI improvements to make it less laggy and easier to use
 - ~~New slider to enable manipulation of neighborhood size for adaptive thresholding.~~ (Implemented in main)
 - ~~New visualization of painter drawings. Now the mask can be overlayed on the grayscale so you can see what's wrong better. Enabled by a toggle button.~~ (Implemented in main)
-- CM is calculated slightly differently so there won't be negative CM values.
+- ~~CM is calculated slightly differently so there won't be negative CM values.~~ (Implemented in main)
 - ~~Shrinkage % is now reported. The thickness of the membrane is the minimum Feret diameter of the binary mask. Cannot be calculated for "No Top" membranes.~~ (Implemented in main)
 - Added new buttons to make copying [DM, CM, Shrinkage] values for FMTM or FATM to the clipboard, for pasting in that order in Excel.
 - ~~Added new button/edit field to allow for different nominal membrane thicknesses for shrinkage calculation.~~ (Implemented in main)
 - ~~Added new toggle to allow for unconnected polymer structures to show up in binary masks.~~ (Implemented in main)
 - ~~Added new button to enable manual recording of image resolution from image scalebar.~~ (Implemented in main)
+- Added new button to enable copying of pore distribution of FATM and FMTM so when you paste it in excel, it's a single column
+- Added new toggle to enable toggling between copying FATM/FMTM data with same button. Colors update to match the normal FATM/FMTM colors.
 
 # Descriptions:
 
