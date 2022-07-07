@@ -20,7 +20,7 @@ Authors: Matthew S. Santoso, Alexander T. Bridge, Alexander V. Hillsley, Joan F.
 - ~~Added new button/edit field to allow for different nominal membrane thicknesses for shrinkage calculation.~~ (Implemented in main)
 - ~~Added new toggle to allow for unconnected polymer structures to show up in binary masks.~~ (Implemented in main)
 - ~~Added new button to enable manual recording of image resolution from image scalebar.~~ (Implemented in main)
-- Added new button to enable copying of pore distribution of FATM and FMTM so when you paste it in excel, it's a single column
+- Added new button to enable copying of pore distribution (in microns^2) of FATM and FMTM so when you paste it in excel, it's a single column
 - Added new toggle to enable toggling between copying FATM/FMTM data with same button. Colors update to match the normal FATM/FMTM colors.
 
 # Descriptions:
