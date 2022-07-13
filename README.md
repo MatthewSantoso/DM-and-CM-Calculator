@@ -22,6 +22,12 @@ Authors: Matthew S. Santoso, Alexander T. Bridge, Alexander V. Hillsley, Joan F.
 - ~~Added new button to enable manual recording of image resolution from image scalebar.~~ (Implemented in main)
 - Added new button to enable copying of pore distribution (in microns^2) of FATM and FMTM so when you paste it in excel, it's a single column
 - Added new toggle to enable toggling between copying FATM/FMTM data with same button. Colors update to match the normal FATM/FMTM colors.
+- Added new keystroke options to help guarantee functionality
+	- pressing 'o': same as pressing the "Load Image" button
+	- pressing 'return' or 'enter': same as pressing the "Analyze" button
+	- pressing 'r': reenables all disabled panels/functions
+	- pressing 'p': same as pressing the "Open Painter" button
+	- pressing 'c': same as pressing the "Copy FATM/FMTM button"
 
 # Descriptions:
 
