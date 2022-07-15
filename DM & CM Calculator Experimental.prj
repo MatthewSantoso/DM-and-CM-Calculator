@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.apptool" plugin-version="1.0">
-  <configuration build-checksum="4026525936" file="D:\zzy_Github\DM-and-CM-Calculator\DM &amp; CM Calculator Experimental.prj" location="D:\zzy_Github\DM-and-CM-Calculator" name="DM &amp; CM Calculator Experimental" target="target.mlapps" target-name="Package App">
+  <configuration build-checksum="152560439" file="D:\zzy_Github\DM-and-CM-Calculator\DM &amp; CM Calculator Experimental.prj" location="D:\zzy_Github\DM-and-CM-Calculator" name="DM &amp; CM Calculator Experimental" target="target.mlapps" target-name="Package App">
     <param.appname>DM &amp; CM Calculator Experimental</param.appname>
     <param.authnamewatermark>Matthew Santoso</param.authnamewatermark>
     <param.email />
@@ -8,7 +8,7 @@
     <param.icons />
     <param.summary />
     <param.description>Calculates macroporosities and macrovoid count for asymmetric membranes based on their SEM cross sections.</param.description>
-    <param.screenshot>C:\Users\matth\AppData\Local\Temp\tp1c7706be_7a82_405a_aebf_9cb2cb3eb176.png</param.screenshot>
+    <param.screenshot>C:\Users\matth\AppData\Local\Temp\tp900fb522_85b7_4de2_9e60_526f8f5d6645.png</param.screenshot>
     <param.version>1.14.1</param.version>
     <param.products.name>
       <item>MATLAB</item>

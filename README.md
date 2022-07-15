@@ -28,6 +28,7 @@ Authors: Matthew S. Santoso, Alexander T. Bridge, Alexander V. Hillsley, Joan F.
 	- pressing 'r': reenables all disabled panels/functions
 	- pressing 'p': same as pressing the "Open Painter" button
 	- pressing 'c': same as pressing the "Copy FATM/FMTM button"
+	- pressing 'a': prints the area of the membrane in square-micrometers to the MATLAB command line
 
 # Descriptions:
 
