@@ -29,6 +29,7 @@ Authors: Matthew S. Santoso, Alexander T. Bridge, Alexander V. Hillsley, Joan F.
 	- pressing 'p': same as pressing the "Open Painter" button
 	- pressing 'c': same as pressing the "Copy FATM/FMTM button"
 	- pressing 'a': prints the area of the membrane in square-micrometers to the MATLAB command line
+	- pressing 's': shows the skeletonized version of the FATM and FMTM.
 - Added OCR capability for manual resolution's length of the line numbers.
 
 # Descriptions:
