@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.apptool" plugin-version="1.0">
-  <configuration build-checksum="166712187" file="D:\zzy_Github\DM-and-CM-Calculator\DM &amp; CM Calculator Experimental.prj" location="D:\zzy_Github\DM-and-CM-Calculator" name="DM &amp; CM Calculator Experimental" target="target.mlapps" target-name="Package App">
+  <configuration build-checksum="875544282" file="D:\zzy_Github\DM-and-CM-Calculator\DM &amp; CM Calculator Experimental.prj" location="D:\zzy_Github\DM-and-CM-Calculator" name="DM &amp; CM Calculator Experimental" target="target.mlapps" target-name="Package App">
     <param.appname>DM &amp; CM Calculator Experimental</param.appname>
     <param.authnamewatermark>Matthew Santoso</param.authnamewatermark>
     <param.email />
@@ -8,8 +8,8 @@
     <param.icons />
     <param.summary />
     <param.description>Calculates macroporosities and macrovoid count for asymmetric membranes based on their SEM cross sections.</param.description>
-    <param.screenshot>C:\Users\matth\AppData\Local\Temp\tp501b6ca7_de8b_4932_bc67_a72502f21802.png</param.screenshot>
-    <param.version>1.16</param.version>
+    <param.screenshot>C:\Users\matth\AppData\Local\Temp\tpa51ec057_3cd7_40a2_bc67_459f44740c8c.png</param.screenshot>
+    <param.version>1.17</param.version>
     <param.products.name>
       <item>MATLAB</item>
       <item>Computer Vision Toolbox</item>

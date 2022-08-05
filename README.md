@@ -32,8 +32,8 @@ Authors: Matthew S. Santoso, Alexander T. Bridge, Alexander V. Hillsley, Joan F.
 	- pressing 's': shows the skeletonized version of the FATM and FMTM.
 - Added OCR capability for manual resolution's length of the line numbers.
 - Added new panel for skeletonizing capability:
-	- Can change thickness of wires (kind of janky right now. need to work on it).
-	- CANNOT DO PORE DISTRIBUTIONS
+	- CANNOT CHANGE THICKNESS OF SKELETONS
+	- Has button for copying pore distributions of both FATM and FMTM skeletons.
 
 # Descriptions:
 
