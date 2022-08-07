@@ -34,6 +34,7 @@ Authors: Matthew S. Santoso, Alexander T. Bridge, Alexander V. Hillsley, Joan F.
 - Added new panel for skeletonizing capability:
 	- CANNOT CHANGE THICKNESS OF SKELETONS
 	- Has button for copying pore distributions of both FATM and FMTM skeletons.
+	- Shows yellow dots on all the pores it calculates on FATM/FMTM skeletons, the FMTM dots on the grayscale and the FMTM itself.
 
 # Descriptions:
 
