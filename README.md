@@ -5,7 +5,7 @@ Authors: Matthew S. Santoso, Alexander T. Bridge, Alexander V. Hillsley, Joan F.
 
 Details about computational flow and code can be found in "Rapid macrovoid characterization in membranes prepared via nonsolvent-induced phase separation: a comparison between 2D and 3D techniques".
 
-Link to paper: https://www.sciencedirect.com/science/article/pii/S0376738822006688#!
+Link to paper: https://www.sciencedirect.com/science/article/pii/S0376738822006688
 
 **Requirements:**
 - MATLAB R2021a
