@@ -5,7 +5,7 @@ Authors: Matthew S. Santoso, Alexander T. Bridge, Alexander V. Hillsley, Joan F.
 
 Details about computational flow and code can be found in "Rapid macrovoid characterization in membranes prepared via nonsolvent-induced phase separation: a comparison between 2D and 3D techniques".
 
-Link to paper: https://www.sciencedirect.com/science/article/pii/S0376738822006688
+Link to paper: https://doi.org/10.1016/j.memsci.2022.120923
 
 **Requirements:**
 - MATLAB R2021a
@@ -14,7 +14,7 @@ Link to paper: https://www.sciencedirect.com/science/article/pii/S03767388220066
 
 **Notes:**
 - Use TIF or TIFF images for DM and CM values and full functionality.
-- PNG and JPG images require manual retrieval of image scale for CM and Shrinkage calculations.
+- PNG and JPG images may require manual retrieval of image scale for CM and Shrinkage calculations.
 - Automated retrieval of image scale has only been tested with SEM images from an FEI Quanta 650 ESEM
 
 # File/Folder Descriptions
