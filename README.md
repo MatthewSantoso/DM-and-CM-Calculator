@@ -55,5 +55,9 @@ Authors: Matthew S. Santoso, Alexander T. Bridge, Alexander V. Hillsley, Joan F.
   - DM & CM Calculator App installer. Download and use "Install App" button under the "Apps" tab to install.
 - DM & CM Calculator Experimental.prj:
   - Matlab prj file to help with compiling the app installer.
+- MicroporePoreDist.m:
+  - Matlab file for calculating pore distributions. Get the cropped grayscale image from the app by clicking analyze, then run this script.
+- testingMicroporePoreDist.mat
+  - File with some a sample image for developing pore distributions. Based from 15% PSF/THF in EtOH quench, #001.
 - test_images:
   - Contains samples of some of the idealized and real membrane cross sections used in the paper.
