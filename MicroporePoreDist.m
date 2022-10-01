@@ -32,8 +32,10 @@ while i < max(s) - tileSize
     i = i+tileSize;
 end
 % check if tiles are correct, color will be off.
-%combTiles = imtile(allTiles, 'GridSize', [max(s)/(tileSize+1) max(s)/(tileSize+1)]);
+combTiles = imtile(allTiles, 'GridSize', [max(s)/(tileSize+1) max(s)/(tileSize+1)]);
+imshow(combTiles);
 s = size(allTiles);
+figure;
 for i = 1:s
     cTile = allTiles(:,:,i);
     if(sum(sum(cTile)) == 0)
@@ -42,9 +44,10 @@ for i = 1:s
     thres = adaptthresh(cTile, ...
                 'Statistic',"median", ...
                 'ForegroundPolarity', 'bright',...
-                "NeighborhoodSize", 21);
-    imBW = imbinarize(cTile, 20);
-%     imshow(imBW);
-%     pause(0.05);
+                "NeighborhoodSize", 9);
+    imBW = imbinarize(cTile, thres);
+    imshow(imBW);
+    pause(0.05);
 end
 %  GOT TO FIX THIS BINARIZATION
+disp("done");
