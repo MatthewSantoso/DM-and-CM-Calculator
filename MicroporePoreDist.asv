@@ -70,10 +70,22 @@ disp("done");
 disp("----");
 
 %% Getting unique elements in array
-A = [1 2 2 4 3 3 3 4 5 6 7 9 9 10];
-U = unique(A); 
+A = [1 2 3 3 3 4];
+[U, I] = unique(A, 'first'); 
 % U is basically set(A)
 % I is the index of the first elements in A that are unique
+x = 1:length(A);
+x(I) = [];
+B = A;
+for i=1:length(U)
+    B(find(B, U(i), 'first'))= -1
+end
+
+find(A==U(1))
+find(A==U(2))
+find(A==U(3))
+find(A==U(4))
+
 
 for n = 1:length(U)
     idxs = find(A==U(n));
@@ -81,3 +93,4 @@ for n = 1:length(U)
         A(idxs) = [];
     end
 end
+S

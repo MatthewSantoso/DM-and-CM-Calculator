@@ -1,15 +1,15 @@
 <deployment-project plugin="plugin.apptool" plugin-version="1.0">
-  <configuration build-checksum="4125188680" file="D:\zzy_Github\DM-and-CM-Calculator\DM &amp; CM Calculator Experimental.prj" location="D:\zzy_Github\DM-and-CM-Calculator" name="DM &amp; CM Calculator Experimental" target="target.mlapps" target-name="Package App">
+  <configuration build-checksum="2200933545" file="C:\Users\matth\Documents\GitHub\DM-and-CM-Calculator\DM &amp; CM Calculator Experimental.prj" location="C:\Users\matth\Documents\GitHub\DM-and-CM-Calculator" name="DM &amp; CM Calculator Experimental" target="target.mlapps" target-name="Package App">
     <param.appname>DM &amp; CM Calculator Experimental</param.appname>
     <param.authnamewatermark>Matthew Santoso</param.authnamewatermark>
-    <param.email />
-    <param.company />
+    <param.email>matthew.santoso@utexas.edu</param.email>
+    <param.company>The University of Texas at Austin</param.company>
     <param.icon />
     <param.icons />
     <param.summary />
     <param.description>Calculates macroporosities and macrovoid count for asymmetric membranes based on their SEM cross sections.</param.description>
-    <param.screenshot>C:\Users\matth\AppData\Local\Temp\tpa83cd634_f640_439f_9226_3a2026f431cf.png</param.screenshot>
-    <param.version>1.18</param.version>
+    <param.screenshot>C:\Users\matth\AppData\Local\Temp\tpd37871bf_0765_49cf_afc6_146ff9e2f178.png</param.screenshot>
+    <param.version>1.19</param.version>
     <param.products.name>
       <item>MATLAB</item>
       <item>Computer Vision Toolbox</item>
@@ -40,16 +40,11 @@
     <fileset.main>
       <file>${PROJECT_ROOT}\DM_CM_Calculator_Experimental_SourceCode.mlapp</file>
     </fileset.main>
-    <fileset.depfun>
-      <file>D:\001_College\CISTAR Lab\ImageJ stuffs\Code\Functions\fAddSideBar.m</file>
-      <file>D:\001_College\CISTAR Lab\ImageJ stuffs\Code\Functions\fCutManual.m</file>
-      <file>D:\001_College\CISTAR Lab\ImageJ stuffs\Code\Functions\fSEMDatabarCut.m</file>
-      <file>D:\001_College\CISTAR Lab\ImageJ stuffs\Code\Functions\fSLnoWhite.m</file>
-    </fileset.depfun>
+    <fileset.depfun />
     <fileset.resources />
     <fileset.package />
     <build-deliverables>
-      <file location="D:\zzy_Github" name="DM-and-CM-Calculator" optional="false">D:\zzy_Github\DM-and-CM-Calculator</file>
+      <file location="C:\Users\matth\Documents\GitHub" name="DM-and-CM-Calculator" optional="false">C:\Users\matth\Documents\GitHub\DM-and-CM-Calculator</file>
     </build-deliverables>
     <workflow />
     <matlab>
