@@ -77,4 +77,4 @@ A = [1 1 2 2 3 3 3 4];
 % U is basically set(A)
 % I is the index of the first elements in A that are unique
 x = 1:length(A);
-x(I) = [];
+x(I) = []; 
