@@ -15,6 +15,7 @@ Link to paper: https://doi.org/10.1016/j.memsci.2022.120923
 **Notes:**
 - Use TIF or TIFF images for DM and CM values and full functionality.
 - PNG and JPG images may require manual retrieval of image scale for CM and Shrinkage calculations.
+- Using the image saver to save masks (if leaving in the default PNG format) contains resolution data in pixels/meters. Should the resolution calculation fail, it will be 1 pixel/meter.
 - Automated retrieval of image scale has only been tested with SEM images from an FEI Quanta 650 ESEM
 
 # File/Folder Descriptions
