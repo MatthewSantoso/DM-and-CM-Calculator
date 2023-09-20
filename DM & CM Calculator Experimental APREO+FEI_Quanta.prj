@@ -1,0 +1,92 @@
+<deployment-project plugin="plugin.apptool" plugin-version="1.0">
+  <configuration build-checksum="416828573" file="D:\zzy_Github\DM-and-CM-Calculator\DM &amp; CM Calculator Experimental APREO+FEI_Quanta.prj" location="D:\zzy_Github\DM-and-CM-Calculator" name="DM &amp; CM Calculator Experimental APREO+FEI_Quanta" target="target.mlapps" target-name="Package App">
+    <param.appname>DM &amp; CM Calculator Experimental APREO+FEI_Quanta</param.appname>
+    <param.authnamewatermark>Matthew Santoso</param.authnamewatermark>
+    <param.email />
+    <param.company />
+    <param.icon />
+    <param.icons />
+    <param.summary />
+    <param.description>Calculates macroporosities and macrovoid count for asymmetric membranes based on their SEM cross sections.</param.description>
+    <param.screenshot>C:\Users\matth\AppData\Local\Temp\tp7858da7a_862b_4c6d_b3cd_424cf37731d4.png</param.screenshot>
+    <param.version>1.20.1</param.version>
+    <param.products.name>
+      <item>MATLAB</item>
+      <item>Computer Vision Toolbox</item>
+      <item>Image Processing Toolbox</item>
+      <item>Optimization Toolbox</item>
+    </param.products.name>
+    <param.products.id>
+      <item>1</item>
+      <item>96</item>
+      <item>17</item>
+      <item>6</item>
+    </param.products.id>
+    <param.products.version>
+      <item>9.14</item>
+      <item>10.4</item>
+      <item>11.7</item>
+      <item>9.5</item>
+    </param.products.version>
+    <param.platforms />
+    <param.output>${PROJECT_ROOT}</param.output>
+    <param.guid>55f23d79-ca46-4497-b56e-b080ec4d83e4</param.guid>
+    <unset>
+      <param.email />
+      <param.company />
+      <param.icon />
+      <param.icons />
+      <param.summary />
+      <param.platforms />
+      <param.output />
+    </unset>
+    <fileset.main>
+      <file>${PROJECT_ROOT}\DM_CM_Calculator_Experimental_APREO_SourceCode.mlapp</file>
+    </fileset.main>
+    <fileset.depfun />
+    <fileset.resources />
+    <fileset.package />
+    <build-deliverables>
+      <file location="D:\zzy_Github" name="DM-and-CM-Calculator" optional="false">D:\zzy_Github\DM-and-CM-Calculator</file>
+    </build-deliverables>
+    <workflow />
+    <matlab>
+      <root>C:\Program Files\MATLAB\R2023a</root>
+      <toolboxes>
+        <toolbox name="matlabcoder" />
+        <toolbox name="gpucoder" />
+        <toolbox name="neuralnetwork" />
+      </toolboxes>
+      <toolbox>
+        <matlabcoder>
+          <enabled>true</enabled>
+        </matlabcoder>
+      </toolbox>
+      <toolbox>
+        <gpucoder>
+          <enabled>true</enabled>
+        </gpucoder>
+      </toolbox>
+      <toolbox>
+        <neuralnetwork>
+          <enabled>true</enabled>
+        </neuralnetwork>
+      </toolbox>
+    </matlab>
+    <platform>
+      <unix>false</unix>
+      <mac>false</mac>
+      <windows>true</windows>
+      <win2k>false</win2k>
+      <winxp>false</winxp>
+      <vista>false</vista>
+      <linux>false</linux>
+      <solaris>false</solaris>
+      <osver>10.0</osver>
+      <os32>false</os32>
+      <os64>true</os64>
+      <arch>win64</arch>
+      <matlab>true</matlab>
+    </platform>
+  </configuration>
+</deployment-project>
