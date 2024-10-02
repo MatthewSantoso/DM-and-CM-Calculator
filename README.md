@@ -35,7 +35,7 @@ Authors: Matthew S. Santoso, Alexander T. Bridge, Alexander V. Hillsley, Joan F.
 	- CANNOT CHANGE THICKNESS OF SKELETONS
 	- Has button for copying pore distributions of both FATM and FMTM skeletons.
 	- Shows yellow dots on all the pores it calculates on FATM/FMTM skeletons, the FMTM dots on the grayscale and the FMTM itself.
-- Removes all duplicate values in the pore distributions as they're likely to be just noise. ex: A = [1 2 2 3] --> [1 3]
+- Removes all duplicate values in the pore distributions as they're likely to be just noise. ex: A = [1 2 2 3] --> [1 2 3]
 - Can auto pull pixel-to-meter data from SEM metadata from: FEI Quanta 650 ESEM, Apreo 2C LoVac SEM, and Zeis Crossbeam 550 FIB-SEM
 # Descriptions:
 
