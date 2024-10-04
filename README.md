@@ -5,7 +5,7 @@
 Author: Matthew S. Santoso
 
 # Differences from main branch:
-- New filters to help remove micropores are implemented. 
+- New filters to help remove noise are implemented. 
 	- None: no filters, results in same masks as main branch.
 	- Percentage: removes all pores smaller than half a standard deviation above the average pore size
 	- Size: only keeps the largest 60 pores, or the largest 5% of the pores, whichever results in smaller number of pores. 
