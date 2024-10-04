@@ -1,10 +1,8 @@
 
-# DM-and-CM-Calculator, Experimental Branch
-***Macroporosity and Macrovoid Count Density Calculator-EXPERIMENTAL***
+# DM-and-CM-Calculator, Surface Branch
+***Porosity, Pore Count Density, Pore Size Distributions Calculator***
 
-~Contains experimental features and algorithms. MAY BE BUGGY (or better) ¯\_(ツ)_/¯
-
-Authors: Matthew S. Santoso, Alexander T. Bridge, Alexander V. Hillsley, Joan F. Brennecke, and Benny D. Freeman
+Author: Matthew S. Santoso
 
 # Differences from main branch:
 - New filters to help remove micropores are implemented. 
@@ -12,14 +10,7 @@ Authors: Matthew S. Santoso, Alexander T. Bridge, Alexander V. Hillsley, Joan F.
 	- Percentage: removes all pores smaller than half a standard deviation above the average pore size
 	- Size: only keeps the largest 60 pores, or the largest 5% of the pores, whichever results in smaller number of pores. 
 - Some UI improvements to make it less laggy and easier to use
-- ~~New slider to enable manipulation of neighborhood size for adaptive thresholding.~~ (Implemented in main)
-- ~~New visualization of painter drawings. Now the mask can be overlayed on the grayscale so you can see what's wrong better. Enabled by a toggle button.~~ (Implemented in main)
-- ~~CM is calculated slightly differently so there won't be negative CM values.~~ (Implemented in main)
-- ~~Shrinkage % is now reported. The thickness of the membrane is the minimum Feret diameter of the binary mask. Cannot be calculated for "No Top" membranes.~~ (Implemented in main)
 - Added new buttons to make copying [DM, CM, Shrinkage] values for FMTM or FATM to the clipboard, for pasting in that order in Excel.
-- ~~Added new button/edit field to allow for different nominal membrane thicknesses for shrinkage calculation.~~ (Implemented in main)
-- ~~Added new toggle to allow for unconnected polymer structures to show up in binary masks.~~ (Implemented in main)
-- ~~Added new button to enable manual recording of image resolution from image scalebar.~~ (Implemented in main)
 - Added new button to enable copying of pore distribution (in microns^2) of FATM and FMTM so when you paste it in excel, it's a single column
 - Added new toggle to enable toggling between copying FATM/FMTM data with same button. Colors update to match the normal FATM/FMTM colors.
 - Added new keystroke options to help guarantee functionality:
